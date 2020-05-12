@@ -1,5 +1,5 @@
 [package]
-name = "rus_tracer"
+name = "rustracer"
 version = "0.1.0"
 authors = ["Mitchell Haugen <haugenmitch@gmail.com>"]
 edition = "2018"
